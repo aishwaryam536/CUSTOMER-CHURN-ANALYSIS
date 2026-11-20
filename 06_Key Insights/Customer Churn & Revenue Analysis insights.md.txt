@@ -1,0 +1,174 @@
+# Customer Churn & Revenue Analysis – Insights
+
+## 1. Project Overview
+
+This project analyzes customer churn, revenue, monthly charges, customer demographics, contract types, payment methods, internet services, and geographic patterns using Power BI.
+
+The analysis is presented through two interactive dashboards:
+
+- Customer Churn Analysis Dashboard
+- Customer Revenue & Charges Analysis Dashboard
+
+---
+
+## 2. Key Performance Indicators
+
+The dashboard reports the following key metrics:
+
+- **Total Customers:** 9,799
+- **Churn Customers:** Approximately 3K
+- **Churn Rate:** 27.64%
+- **Total Revenue:** 59.11M
+- **Average Monthly Charges:** 163.06
+- **Average Tenure:** 36.87
+
+These KPIs provide an overall view of the customer base, churn level, revenue, and customer charging patterns.
+
+---
+
+## 3. Customer Churn Analysis
+
+### Churn by Contract Type
+
+The dashboard compares churn across different contract categories, including One Year, Two Year, Monthly, and Month-to-Month contracts.
+
+The visual allows comparison of churn levels between contract types and can help identify contract categories that require closer attention for customer retention.
+
+### Churn by Subscription Type
+
+Churn is compared across Premium, Basic, Standard, Family, and other subscription categories.
+
+This helps identify differences in customer attrition across subscription plans.
+
+### Churn by Payment Method
+
+The dashboard provides a comparison of churn across payment methods such as:
+
+- Credit Card
+- UPI
+- Debit Card
+- Cash
+- E-Wallet
+- Bank Transfer
+- Net Banking
+
+The distribution allows payment methods to be compared as part of the overall churn analysis.
+
+### Churn by Internet Service
+
+Customer churn is analyzed across different internet service categories, including:
+
+- DSL
+- Cable
+- Fiber Optic
+- Fiber
+- 5G
+- No Internet Service
+
+This provides visibility into churn patterns across different service types.
+
+### Churn by Senior Citizen
+
+The dashboard compares churn between senior-citizen and non-senior-citizen customers.
+
+The visualization shows a substantially larger customer count in the non-senior-citizen category.
+
+---
+
+## 4. Revenue Analysis
+
+### Revenue by State
+
+Revenue varies across states.
+
+The dashboard shows higher revenue values for states such as Delhi, Gujarat, Karnataka, and Maharashtra compared with several other states.
+
+This geographic comparison can help identify regions contributing strongly to overall revenue.
+
+### Revenue and Monthly Charges
+
+The dashboard reports:
+
+- **Total Revenue:** 59.11M
+- **Average Monthly Charges:** 163.06
+
+These metrics provide an overview of the financial contribution and charging pattern of the customer base.
+
+---
+
+## 5. Monthly Charges Analysis
+
+### Monthly Charges by Internet Service
+
+Monthly charges are compared across internet service categories.
+
+DSL and Cable show relatively high total monthly charges in the dashboard, while other service categories contribute different amounts.
+
+### Monthly Charges by City
+
+The dashboard compares monthly charges across cities.
+
+Cities such as Bengaluru and Delhi show approximately 142K in monthly charges, followed by cities including Mumbai, Mysuru, Pune, Kochi, Chennai, and others.
+
+This allows geographic differences in customer charges to be identified.
+
+### Monthly Charges by Gender
+
+Monthly charges are compared across customer gender categories.
+
+The visualization provides a comparison of the contribution of different gender groups to total monthly charges.
+
+---
+
+## 6. Contract Analysis
+
+The dashboard compares total charges across contract types.
+
+The displayed values include approximately:
+
+- **One Year:** 19.49M
+- **Two Year:** 17.77M
+- **Monthly:** 11.09M
+- **Month-to-Month:** 10.24M
+
+This comparison shows how total charges vary across different contract categories.
+
+---
+
+## 7. Customer Demographic Analysis
+
+### Revenue by Age
+
+The dashboard compares total revenue across age categories.
+
+The visualization shows differences in revenue contribution between the displayed age groups, allowing customer revenue to be examined from a demographic perspective.
+
+### Dependents by City
+
+Dependents are also compared across selected cities.
+
+The visualization shows differences in the number of dependents across locations.
+
+---
+
+## 8. Business Value
+
+The analysis provides a consolidated view of customer churn and financial performance.
+
+The dashboard can help businesses:
+
+- Monitor customer churn
+- Compare churn across customer segments
+- Analyze revenue by location and demographics
+- Compare charges across internet services
+- Understand contract-level revenue contribution
+- Identify customer segments requiring further investigation
+- Support data-driven customer retention strategies
+
+---
+
+## 9. Conclusion
+
+The Customer Churn & Revenue Analysis project demonstrates how Power BI can transform customer-level data into interactive business intelligence dashboards.
+
+By combining churn analysis with revenue and customer-charge analysis, the project provides a broader view of customer behavior and financial performance.
