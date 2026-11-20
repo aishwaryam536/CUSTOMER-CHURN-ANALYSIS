@@ -46,7 +46,7 @@ The revenue and charges dashboard analyzes:
 - Total Charges by Contract Type
 - Total Revenue by Age
 
-![Customer Revenue & Charges Dashboard](Screenshots/revenue_charges_dashboard.png)
+
 
 ## Key KPIs
 
@@ -74,9 +74,6 @@ The revenue and charges dashboard analyzes:
 
 ### Customer Churn Analysis
 
-<img width="1237" height="637" alt="image" src="https://github.com/user-attachments/assets/bdae9bd7-a6da-4317-8255-60ab098d2c5b" />
-
-
 The project examines churn across:
 
 - Contract Type
@@ -87,9 +84,6 @@ The project examines churn across:
 - State
 
 ### Revenue & Charges Analysis
-
-<img width="1171" height="642" alt="image" src="https://github.com/user-attachments/assets/32f9f3d0-30a3-4f02-9c97-edd3feb70138" />
-
 
 The project examines:
 
