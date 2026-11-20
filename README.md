@@ -10,6 +10,8 @@ The project transforms customer data into interactive dashboards to understand c
 
 ### 1. Customer Churn Analysis Dashboard
 
+<img width="1137" height="626" alt="Churn analysis dashboard" src="https://github.com/user-attachments/assets/e103a21a-e071-4598-9920-6e9b1150acc7" />
+
 The churn dashboard provides an overview of:
 
 - Total Customers
@@ -25,9 +27,12 @@ The churn dashboard provides an overview of:
 - Churn by Internet Service
 - Churn by Senior Citizen
 
-![Customer Churn Dashboard](Screenshots/churn_dashboard.png)
+
 
 ### 2. Customer Revenue & Charges Analysis Dashboard
+
+<img width="1192" height="637" alt="Customer revenue analysis" src="https://github.com/user-attachments/assets/9a4cbfbc-e08c-4b51-81fb-067511cd1c35" />
+
 
 The revenue and charges dashboard analyzes:
 
