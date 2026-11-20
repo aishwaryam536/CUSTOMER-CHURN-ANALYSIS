@@ -148,9 +148,34 @@ customer-churn-revenue-analysis-powerbi/
 - Customer Churn Analysis
 - Revenue Analysis
 - Business Intelligence
+## Project Outcome
+
+The project successfully transformed customer data into interactive Power BI dashboards for analyzing customer churn, revenue, and customer charges.
+
+The project demonstrates the complete data analytics workflow:
+
+- Data cleaning and preprocessing using Python
+- SQL-based data analysis
+- Data transformation using Power Query
+- KPI creation using DAX
+- Interactive dashboard development using Power BI
+- Customer churn and revenue analysis
+- Business-oriented data visualization
+- Documentation of analytical findings
+
+The final dashboards provide a consolidated view of customer behavior, churn patterns, revenue distribution, and charging patterns. The analysis can support further investigation into customer retention and business performance.
+
 
 ## Conclusion
 
 This project demonstrates how customer data can be transformed into interactive Power BI dashboards for customer churn, revenue, and charge analysis.
 
 The dashboards provide business-oriented insights that can support customer retention analysis and data-driven decision making.
+
+## Author
+
+**Aishwarya M**
+
+Data Analytics | Power BI | SQL | Python
+
+This project was created as part of my Data Analytics portfolio to demonstrate practical skills in data cleaning, SQL analysis, Power BI dashboard development, and business data visualization.
